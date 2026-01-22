@@ -1,2 +1,2 @@
 # AI-Powered-RAG-Framework-for-Corporate-Sustainability-Reporting
- Developed a RAG framework with pre-call (pitch deck generation) and post-call (call transcription, diarization, and agent  performance evaluation) phases.Used FAISS, Gemini API, and LLMs to automate insights and assess agent clarity and empathy.  Built an interactive Streamlit interface for deployment and real-time usage.
+ Developed a RAG framework with pre-call (pitch deck generation) and post-call (call transcription, diarization, and agent  performance evaluation) phases.Used FAISS, Gemini API, and LLMs to automate insights and assess agent clarity and empathy.  
